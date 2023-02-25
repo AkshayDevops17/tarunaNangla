@@ -2,7 +2,7 @@
 
 <h2 align="center">
  
- 👋 Hi, I’m Taruna 
+ 👋 Hi, I’m Akshay Borse
 
 </h2>
  
